@@ -1,3 +1,3 @@
 # TestCodeReview
 
-This is a test. Second commit.
+This is a test.
