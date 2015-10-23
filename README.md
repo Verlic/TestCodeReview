@@ -1,3 +1,3 @@
 # TestCodeReview
 
-This is a test. Test PR.
+This is a test.
